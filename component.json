@@ -1,0 +1,19 @@
+{
+  "name": "is-hidden",
+  "repository": "dominicbarnes/is-hidden",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Determine if an element is hidden (not visible)",
+  "keywords": [
+    "hidden",
+    "element"
+  ],
+  "development": {
+    "dependencies": {
+      "component/assert": "*"
+    }
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
